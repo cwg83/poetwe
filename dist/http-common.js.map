@@ -1,0 +1,1 @@
+{"version":3,"file":"http-common.js","sourceRoot":"","sources":["../src/http-common.ts"],"names":[],"mappings":";;;;;AAAA,kDAA0B;AAE1B,MAAM,GAAG,GAAG,eAAK,CAAC,MAAM,CAAC;IACvB,OAAO,EAAE,2BAA2B;IACpC,OAAO,EAAE;QACP,cAAc,EAAE,kBAAkB;KACnC;CACF,CAAC,CAAC;AAEH,kBAAe,GAAG,CAAC"}
